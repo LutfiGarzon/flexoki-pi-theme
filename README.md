@@ -2,6 +2,8 @@
 
 [Flexoki](https://stephango.com/flexoki) color scheme themes for [pi](https://github.com/badlogic/pi-mono).
 
+Flexoki was created by [Steph Ango](https://stephango.com). Thanks for the beautiful, inky palette.
+
 ## Install
 
 ```bash
