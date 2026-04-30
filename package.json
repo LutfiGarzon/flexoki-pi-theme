@@ -4,6 +4,10 @@
   "description": "Flexoki color scheme theme for pi",
   "keywords": ["pi-package"],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LutfiGarzon/flexoki-pi-theme.git"
+  },
   "pi": {
     "themes": ["./themes"]
   },
@@ -14,7 +18,8 @@
   "devDependencies": {
     "semantic-release": "^24.0.0",
     "@semantic-release/git": "^10.0.0",
-    "@semantic-release/github": "^10.0.0"
+    "@semantic-release/github": "^10.0.0",
+    "@semantic-release/npm": "^12.0.0"
   },
   "release": {
     "branches": ["main"],
