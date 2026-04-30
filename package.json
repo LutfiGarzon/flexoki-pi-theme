@@ -1,0 +1,14 @@
+{
+  "name": "flexoki-pi-theme",
+  "version": "1.0.0",
+  "description": "Flexoki color scheme theme for pi",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "pi": {
+    "themes": ["./themes"]
+  },
+  "files": [
+    "themes/",
+    "package.json"
+  ]
+}
